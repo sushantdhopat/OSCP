@@ -1,0 +1,56 @@
+* file system cmd
+ls -alh 
+a- all file incluede hidden one start with .
+l- show permissions owner size etc
+h- human readbale means kb gb file
+
+* disk usage
+ for hole system - ds -h
+ for specific folder - du -h
+
+* system process 
+ps aux
+show hierachy
+ps -axjf
+
+* listning ports and connections
+netstat -ltpn
+
+* create new user with deafult setting
+sudo useradd -m username
+
+* change user password
+sudo passwd username
+
+* Delete user
+sudo userdel -r username
+
+* change user
+su username
+
+* list of group of given user
+groups username
+
+* create new group
+groupadd grpname
+
+add user to group
+usermod -a -G grpname username
+
+* package management
+apt/apt-get
+
+install
+apt-get install fdisk
+
+search 
+apt search disk
+
+remove
+apt-get purge fdisk
+
+* changing owner of file
+chown root test.sh
+
+changing groups
+chown user:group test.sh
