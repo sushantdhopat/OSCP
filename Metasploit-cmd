@@ -1,0 +1,15 @@
+msfconsole 
+search exploit
+use exploit
+show options
+set RHOST
+run
+
+* when exploit ask for the lhost run this cmd ifconfig tun0
+and pass that ip
+
+after getting sessions
+
+sessions - to see sessions
+
+to connect - sessions -i 1
