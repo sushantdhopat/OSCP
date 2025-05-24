@@ -1,10 +1,10 @@
-
-    - [https://github.com/nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) (Ligolo-ng for tunneling)
+ 
+    - https://github.com/nicocha30/ligolo-ng (Ligolo-ng for tunneling)
         
-    - [https://github.com/DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) (Pspy for active services, cronjob enumeration)
+    - https://github.com/DominicBreuker/pspy (Pspy for active services, cronjob enumeration)
         
-    - [https://github.com/fortra/impacket](https://github.com/fortra/impacket) (Impacket for Active Directory tools)
+    - https://github.com/fortra/impacket (Impacket for Active Directory tools)
         
-    - [https://bloodhound.specterops.io/get-started/quickstart/community-edition-quickstart](https://bloodhound.specterops.io/get-started/quickstart/community-edition-quickstart) (Bloodhound CE + SharpHound for Active Directory enumeration)
+    - https://bloodhound.specterops.io/get-started/quickstart/community-edition-quickstart (Bloodhound CE + SharpHound for Active Directory enumeration)
         
-    - [https://github.com/PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) (PowerSploit for AD enumeration inside PS session)
+    - https://github.com/PowerShellMafia/PowerSploit (PowerSploit for AD enumeration inside PS session)
